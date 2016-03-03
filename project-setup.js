@@ -40,7 +40,7 @@ var tasks = [
   },
   { 
     html_id: "add-guest-bonus",
-    task: "Each added guest should come with a remove button. Clicking that button should remove the guest from the list. This is an adventure mode problem. Your homework can be considered technically complete if this is not solved.",
+    task: "Each added guest should come with a remove button. Clicking that button should remove the guest from the list.",
     link: "gifs/guestListBonus.gif"
   },
 ]
